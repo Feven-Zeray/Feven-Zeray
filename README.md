@@ -1,9 +1,9 @@
 # Hi, I'm Feven Zeray! 👋
 
 <p align="left">
-  <a href="https://github.com/Feven-Z"><img src="https://img.shields.io/badge/GitHub-Feven--Z-black?logo=github" alt="GitHub"></a>
+  <a href="https://github.com/Feven-Z"><img src="https://img.shields.io/badge/GitHub-Feven-Zeray-black?logo=github" alt="GitHub"></a>
   <a href="mailto:fevenzeray2028@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" alt="Email"></a>
-  <a href="https://linkedin.com/in/feven-zeray"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/fevenzeray"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://komarev.com/ghpvc/?username=Feven-Z&style=flat" alt="profile views"/>
 </p>
 
