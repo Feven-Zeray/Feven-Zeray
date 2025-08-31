@@ -48,9 +48,9 @@ A sleek **Apple website clone** showcasing responsive UI/UX design using **React
 ---
 
 ## 📊 GitHub Stats
-![Feven’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Feven-Z&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feven-Z&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Feven-Z&theme=radical)  
+![Feven’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Feven-Zeray&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feven-Zeray&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Feven-Zeray&theme=radical)  
 
 ---
 
